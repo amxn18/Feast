@@ -7,12 +7,13 @@ __dummy_idJfraud_project
 @
  
 user"user_idJfraud_project
-ÊºòÌĞ¯íİÊºòÌĞ¯íİ1"$a9451ee8-3644-48c5-9aa4-141d399da1d0*ı¼òÌ¸¢Öç2 
+ÊºòÌĞ¯íİÊºòÌĞ¯íİ1"$fb61dce4-ee6f-4717-844e-eeec9e362298*şÆòÌÀ¸¨2·
 ÿ
 user_transaction_featuresfraud_projectuser"
 transaction_amount2€õ$:Ÿevent_timestampZdata/transactions.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transactions.parquet’ı¼òÌè€Êğ"ı¼òÌø„Îæ@b
-user_id
-ı¼òÌøƒøæı¼òÌøƒøæR¸
+user_id3
+ı¼òÌøƒøæşÆòÌğñ
+ıÑÍÌ°·¾’€ú¦ÎR¸
 µ
 ,feast.infra.online_stores.sqlite.SqliteTable"„
 YC:\Users\Aman\OneDrive\Desktop\Feast\fraud_feature_repo\feature_repo\data\online_store.db'fraud_project_user_transaction_featuresb¯event_timestampZdata/transactions.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/transactions.parquetªfraud_project’ı¼òÌè€Êğ"ı¼òÌø„ÎæŠ-
